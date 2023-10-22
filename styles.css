@@ -1,2 +1,12 @@
 
-/* Your CSS Code here. */
+.red{
+	background-color:red;
+}
+.green{
+	background-color:green
+}
+.holder{
+	width:100px;
+	height:100px;
+	display:flex;
+}
