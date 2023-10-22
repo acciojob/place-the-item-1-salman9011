@@ -1,4 +1,9 @@
 
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
 .red{
 	background-color:red;
 }
@@ -6,10 +11,12 @@
 	background-color:green
 }
 .holder{
+
 	width:100px;
 	height:100px;
 /* 	margin-right:10px; */
 	margin-bottom:10px;
+	display:flex;
 	
 }
 #container{
